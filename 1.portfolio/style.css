@@ -12,3 +12,7 @@ footer {
     height: 15%;
     margin-left: 30px;
   }
+  #color{
+    background-color: rgb(112, 113, 120);
+    height: 70px;
+}
